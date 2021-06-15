@@ -55,7 +55,7 @@ The TieredProfitSplitter contact will distribute different percentages of incomi
 the DeferredEquityPlan contract models traditional company stock plans.  This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 *Note: we are using the fastforward function and fakenow variable for the purposes of this demonstration*
 
-- **Compile the code**
+- **Compile the code**</br>
 ![compile](Resources/compile.png)
 
 - **Deploy the contact with Injected Web3 Environment (MetaMask) to employee account. Distribute shares annually. Deactivate contract after 4 years when share are distributed or if no longer employed**

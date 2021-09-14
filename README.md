@@ -1,6 +1,6 @@
 # Ethereum Smart Contracts with Solidity
 
-The following files contain code to build smart contracts that will automate ompany finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic.  These contracts will do several things:
+The following files contain code to build smart contracts that will automate company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic.  These contracts will do several things:
 - Pay your Associate-level employees quickly and easily
 - Distribute profits to different tiers of employees
 - Distribute company shares for employees in a "deferred equity incentive plan" automatically
